@@ -1,7 +1,8 @@
 # LMS-files-Crawler
 Python Scrapy Project to download all files of every course and organize them in folders.
 
-##How to Run
+# How to run
+First open lms.py and enter your lms credentials in empty quotes on line 31 and 32
 scrapy runspider lms.py
 
 ## Requirements
